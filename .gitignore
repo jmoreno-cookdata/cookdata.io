@@ -1,0 +1,4 @@
+# Ignore .htacess to allow .html files on Heroku
+################################################
+
+.htacess
